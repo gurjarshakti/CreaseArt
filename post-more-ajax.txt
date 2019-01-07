@@ -1,0 +1,56 @@
+					<div class="blog-post">
+						<div class="post-image">
+							<a href="blog-single.html"><img src="images/blog/blog-post-img-1.jpg" alt=""></a>
+						</div>
+						<ul class="post-meta">
+							<li class="post-message"><i class="icon icon-chat-bubble"></i><span>12</span></li>
+							<li>10 / 11 / 2016</li>
+						</ul>
+						<h3 class="post-title"><a href="blog-single.html">The Dining Room: Washing and Care Instructions for Table Linens</a></h3>
+						<div class="post-author">by Adam Smith</div>
+						<div class="post-teaser">
+							<p>Are you a family that uses tablecloths and cloth napkins often? We mainly use them around the holiday season here at the Hill House. I think people (meaning me) often don’t use nicer cloths and napkins because we perceive it as work to get them ready for an event and then to get them clean after said event.</p>
+						</div>
+						<a href="blog-single.html" class="btn btn-default btn-blue">Read more</a>
+					</div>
+					<div class="blog-post">
+						<div class="post-image">
+							<div class="post-video">
+								<iframe src="https://player.vimeo.com/video/178884334"></iframe>
+							</div>
+						</div>
+						<ul class="post-meta">
+							<li class="post-message"><i class="icon icon-chat-bubble"></i><span>12</span></li>
+							<li>10 / 11 / 2016</li>
+						</ul>
+						<h3 class="post-title"><a href="blog-single.html">Stain Removal Guide for the Holidays</a></h3>
+						<div class="post-author">by Adam Smith</div>
+						<div class="post-teaser">
+							<p>I genuinely love this time of year from November through the end of December. It’s always a busy time with cleaning, cooking, baking and shopping but I try to make it more simple each and every year. I’ve found as we’ve added more children to our family, my desire for a simple, easy holiday season.</p>
+						</div>
+						<a href="blog-single.html" class="btn btn-default btn-blue">Read more</a>
+					</div>
+					<div class="blog-post">
+						<div class="post-image">
+							<a href="blog-single.html"><img src="images/blog/blog-post-img-2.jpg" alt="">
+								<div class="post-quote">
+									<div class="vert-wrap">
+										<div class="vert">
+											<div class="quote-author">Charles N. Rock</div>
+											<p>Looking for something fun to do this weekend without breaking the bank? No problem! An empty wallet doesn’t mean you can let loose and enjoy your days off! We’ve found 10 awesome ways you can live it up this weekend- without spending a single red cent!</p>
+										</div>
+									</div>
+								</div>
+							</a>
+						</div>
+						<ul class="post-meta">
+							<li class="post-message"><i class="icon icon-chat-bubble"></i><span>12</span></li>
+							<li>10 / 11 / 2016</li>
+						</ul>
+						<h3 class="post-title"><a href="blog-single.html">Follow-up to Washing Sheets & Towels</a></h3>
+						<div class="post-author">by Adam Smith</div>
+						<div class="post-teaser">
+							<p>The simple answer is no, you should not wash your dirty clothes with sheets & towels. However, I think you could infer from the post that you can wash sheets and towels together in the same.</p>
+						</div>
+						<a href="blog-single.html" class="btn btn-default btn-blue">Read more</a>
+					</div>
