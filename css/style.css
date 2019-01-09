@@ -41,7 +41,7 @@
 6.  Icon Animation
 -----------------------------------------*/
 /* Fonts */
-@import url(https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i|Roboto:300,300i,400,400i,500,500i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i|Rubik:300,300i,400,400i,500,500i,700,700i);
 /* Variables */
 /* Mixin */
 /* 1. PreLoader */
@@ -50,14 +50,14 @@
     background: #363435;
     padding-top: 10px;
     padding-bottom: ;
-font-family: 'Montserrat', sans-serif;
+    font-family: 'Bitter', serif;
 }
 
 .footerbar {
     background: #222;
     padding-top: 8px;
     padding-bottom: 5px;
-font-family: 'Montserrat', sans-serif;
+    font-family: 'Bitter', serif;
     font-size: 12px;
 }
 
@@ -78,7 +78,7 @@ font-family: 'Montserrat', sans-serif;
 .phn_num {
     font-weight: 500;
     font-size: 15px;
-font-family: 'Montserrat', sans-serif;
+    font-family: 'Bitter', serif;
     color: white;
     margin-right: 20px;
 
@@ -87,7 +87,7 @@ font-family: 'Montserrat', sans-serif;
 .adrs {
     font-weight: 500;
     font-size: 15px;
-font-family: 'Montserrat', sans-serif;
+    font-family: 'Bitter', serif;
     color: white;
 }
 
@@ -108,9 +108,6 @@ font-family: 'Montserrat', sans-serif;
     display: inline-block;
 
 }
-
-
-
 
 /* App section */
 
@@ -173,7 +170,7 @@ font-family: 'Montserrat', sans-serif;
     margin-bottom: 20px;
     text-align: left;
     font-size: 21px;
-font-family: 'Montserrat', sans-serif;
+    font-family: 'Bitter', serif;
     line-height: 28pt;
     margin-left: -5px;
 }
@@ -184,13 +181,11 @@ font-family: 'Montserrat', sans-serif;
 }
 .google_app{
     height: 60px;
-margin-top: 15px;
+
 }
 
 .apple_app{
     height: 60px;
-    margin-top: 13px;
-
 }
 /* New App section */
 
@@ -209,7 +204,7 @@ img {
 }
 
 .navbar {
-font-family: 'Montserrat', sans-serif;
+    font-family: 'Bitter', serif;
     float: right;
     font-size: 17px;
     padding-top: 30px;
@@ -353,7 +348,7 @@ html {
 }
 
 body {
-    font: 16px/22px "Roboto", sans-serif;
+    font: 16px/22px "Lato", sans-serif;
     color: #454545;
     background-color: #fff;
     font-weight: 400;
@@ -399,7 +394,7 @@ h2 {
     padding: 0 0 40px 0;
     text-transform: uppercase;
     color: #454545;
-font-family: 'Montserrat', sans-serif;
+    font-family: "Rubik", sans-serif;
     font-weight: normal;
 }
 
@@ -454,7 +449,7 @@ h2.title-underline.text-right {
 h3 {
     font-size: 26px;
     line-height: 30px;
-font-family: 'Montserrat', sans-serif;
+    font-family: "Rubik", sans-serif;
     font-weight: 400;
     margin: 0;
     padding: 0;
@@ -464,7 +459,7 @@ h4 {
     font-size: 22px;
     line-height: 28px;
     font-weight: 400;
-font-family: 'Montserrat', sans-serif;
+    font-family: "Rubik", sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -472,7 +467,7 @@ font-family: 'Montserrat', sans-serif;
 h5 {
     font-size: 20px;
     line-height: 24px;
-font-family: 'Montserrat', sans-serif;
+    font-family: "Rubik", sans-serif;
     font-weight: 400;
     margin: 0;
     padding: 0;
@@ -481,7 +476,7 @@ font-family: 'Montserrat', sans-serif;
 h6 {
     font-size: 18px;
     line-height: 22px;
-font-family: 'Montserrat', sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: 400;
     margin: 0;
     padding: 0;
@@ -501,7 +496,7 @@ font-family: 'Montserrat', sans-serif;
     font-size: 18px;
     line-height: 26px;
     letter-spacing: .2px;
-    max-width: 750px;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -551,7 +546,7 @@ font-family: 'Montserrat', sans-serif;
     text-align: center;
     font-weight: 400;
     line-height: 34px;
-font-family: 'Roboto', sans-serif;
+    font-family: "Lato", sans-serif;
     padding-bottom: 23px;
 }
 
@@ -601,7 +596,7 @@ font-family: 'Roboto', sans-serif;
 
 .panel .panel-title {
     position: relative;
-font-family: 'Roboto', sans-serif;
+    font-family: "Lato", sans-serif;
     line-height: 1em;
 }
 
@@ -730,7 +725,7 @@ header .box-location {
 
 header .box-location:before {
     content: "\e908";
-font-family: 'Roboto', sans-serif;
+    font-family: 'laundry';
     position: absolute;
     display: inline-block;
     top: 7px;
@@ -766,7 +761,7 @@ font-family: 'Roboto', sans-serif;
 
 .box-telephone:before {
     content: "\e906";
-font-family: 'Roboto', sans-serif;
+    font-family: 'laundry';
     position: absolute;
     display: inline-block;
     top: 7px;
@@ -780,7 +775,7 @@ font-family: 'Roboto', sans-serif;
     font-size: 29px;
     font-style: normal;
     font-weight: 300;
-font-family: 'Roboto', sans-serif;
+    font-family: "Rubik", sans-serif;
     margin: 0;
 }
 
@@ -843,7 +838,7 @@ font-family: 'Roboto', sans-serif;
     padding: 0;
     font-size: 0;
     line-height: 0;
-font-family: 'Roboto', sans-serif;
+    font-family: "Rubik", sans-serif;
 }
 
 .menu li {
@@ -1123,7 +1118,7 @@ font-family: 'Roboto', sans-serif;
     color: #fff;
     text-transform: uppercase;
     text-align: center;
-font-family: 'Roboto', sans-serif;
+    font-family: "Rubik", sans-serif;
     font-weight: 500;
     text-align: center;
 }
@@ -1164,7 +1159,7 @@ font-family: 'Roboto', sans-serif;
     color: #fff;
     text-transform: uppercase;
     text-align: center;
-font-family: 'Roboto', sans-serif;
+    font-family: "Rubik", sans-serif;
     margin-top: 0.2em;
     text-align: center;
 }
@@ -1393,7 +1388,7 @@ font-family: 'Roboto', sans-serif;
 
 .tp-leftarrow.default:before,
 .tp-rightarrow.default:before {
-font-family: 'Roboto', sans-serif;
+    font-family: 'laundry';
     font-size: 39px;
     line-height: 40px;
     cursor: pointer;
@@ -1570,7 +1565,7 @@ font-family: 'Roboto', sans-serif;
     padding-bottom: 4px;
     line-height: 1.363em;
     text-transform: uppercase;
-font-family: 'Roboto', sans-serif;
+    font-family: "Rubik", sans-serif;
     font-weight: normal;
     -moz-transition: all 0.35s ease;
     -o-transition: all 0.35s ease;
@@ -1754,7 +1749,7 @@ font-family: 'Roboto', sans-serif;
 /* 4.5 promo-fluid
 ================================================== */
 .promo-fluid {
-    background: #46d8cc;
+    background: #696969;
     font-size: 36px;
     line-height: 42px;
     color: #fff;
@@ -1805,7 +1800,7 @@ font-family: 'Roboto', sans-serif;
 .box-icon-text .title {
     line-height: 25px;
     font-weight: normal;
-    font-family: "Roboto", sans-serif;
+    font-family: "Rubik", sans-serif;
     padding-bottom: 17px;
 }
 
@@ -1847,7 +1842,7 @@ font-family: 'Roboto', sans-serif;
 .box-text .title {
     color: #454545;
     padding-bottom: 18px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-weight: 400;
 }
 
@@ -1926,6 +1921,7 @@ font-family: 'Roboto', sans-serif;
     -ms-transition: all 0.3s linear;
     -webkit-transition: all 0.3s linear;
     -o-transition: all 0.3s linear;
+	color:#000;
 }
 
 .services-box-info:hover {
@@ -2023,7 +2019,7 @@ font-family: 'Roboto', sans-serif;
         right: 170px;
         font-size: 150px;
         line-height: 150px;
-        font-family: "Roboto", sans-serif;
+        font-family: "Lato", sans-serif;
         font-weight: bold;
         color: #B52421;
     }
@@ -2052,7 +2048,7 @@ font-family: 'Roboto', sans-serif;
     top: 49px;
     left: 37px;
     font-size: 50px;
-    font-family: 'Montserrat';
+    font-family: 'laundry';
 }
 
 @media (max-width: 767px) {
@@ -2079,7 +2075,7 @@ font-family: 'Roboto', sans-serif;
     color: #B52421;
     font-weight: bold;
     display: inline-block;
-    font-family: "Roboto", sans-serif;
+    font-family: "Lato", sans-serif;
 }
 
 .carousel-blog-box .title a {
@@ -2153,7 +2149,7 @@ font-family: 'Roboto', sans-serif;
     -ms-transition: all 0.1s linear;
     -webkit-transition: all 0.1s linear;
     -o-transition: all 0.1s linear;
-    font-family: "Roboto", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-weight: 400;
 }
 
@@ -2256,7 +2252,7 @@ font-family: 'Roboto', sans-serif;
 }
 
 .permission-box .title {
-    font-family: "Roboto", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-size: 22px;
     line-height: 27px;
     padding: 10px 0 15px 0;
@@ -2295,12 +2291,12 @@ font-family: 'Roboto', sans-serif;
     padding: 0 0 0 20px;
     margin-right: 10px;
     font-weight: 500;
-    font-family: "Roboto", sans-serif;
+    font-family: "Rubik", sans-serif;
 }
 
 .breadcrumb li:before {
     content: '\e928';
-    font-family: 'Montserrat';
+    font-family: 'laundry';
     font-size: 8px;
     left: 0;
     position: absolute;
@@ -2371,7 +2367,7 @@ font-family: 'Roboto', sans-serif;
 
 .box-personal .title {
     margin-top: 20px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: bold;
     transition: all 0.3s linear;
     -ms-transition: all 0.3s linear;
@@ -2421,7 +2417,7 @@ font-family: 'Roboto', sans-serif;
     line-height: 53px;
     color: #fff;
     text-align: center;
-    font-family: "Roboto", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-weight: 500;
     text-transform: uppercase;
     -moz-transition: all 0.25s ease;
@@ -2435,7 +2431,7 @@ font-family: 'Roboto', sans-serif;
     line-height: 25px;
     color: #fff;
     text-align: center;
-    font-family: "Roboto", sans-serif;
+    font-family: "Rubik", sans-serif;
     margin-top: 9px;
     -moz-transition: all 0.4s ease;
     -o-transition: all 0.4s ease;
@@ -2508,7 +2504,7 @@ font-family: 'Roboto', sans-serif;
 .contact-box-01 {
     position: relative;
     padding-right: 33px;
-    text-align: right;
+    text-align: left;
     font-weight: 400;
 }
 
@@ -2518,9 +2514,23 @@ font-family: 'Roboto', sans-serif;
     font-weight: bold;
 }
 
-.contact-box-01:before {
+.contact-box-01 .title:before {
     content: "\e908";
-    font-family: 'Montserrat';
+    font-family: 'laundry';
+    position: absolute;
+    display: inline-block;
+    top: 30px;
+    font-size: 18px;
+    line-height: 27px;
+    color: #B52421;
+}
+.contact-box-01 p {
+    margin-left: 25px;
+    margin-top: 8px;
+}
+/*.contact-box-01:after {
+    content: "\e908";
+    font-family: 'laundry';
     position: absolute;
     display: inline-block;
     top: 7px;
@@ -2528,7 +2538,7 @@ font-family: 'Roboto', sans-serif;
     font-size: 21px;
     line-height: 27px;
     color: #B52421;
-}
+}*/
 
 @media (max-width: 767px) {
     .contact-box-01 {
@@ -2550,7 +2560,7 @@ font-family: 'Roboto', sans-serif;
     position: relative;
     padding-right: 33px;
     margin-top: 29px;
-    text-align: right;
+    text-align: left;
     font-weight: 400;
 }
 
@@ -2560,15 +2570,18 @@ font-family: 'Roboto', sans-serif;
     color: #454545;
     font-weight: bold;
 }
+.contact-box-02 p {
+    margin-left: 25px;
+    margin-top: 8px;
+}
 
-.contact-box-02:before {
+.contact-box-02 .title:before {
     content: "\e906";
-    font-family: 'Montserrat';
+    font-family: 'laundry';
     position: absolute;
     display: inline-block;
-    top: 7px;
-    right: 0;
-    font-size: 21px;
+    top:30px;
+    font-size: 18px;
     line-height: 27px;
     color: #B52421;
 }
@@ -2585,31 +2598,44 @@ font-family: 'Roboto', sans-serif;
         margin-bottom: 15px;
     }
 }
-
+.contact-box-02 a {
+ color:#000;
+  text-decoration: none;
+}
 /* /contact-box-02
 ================================================== */
 /* contact-box-03
 ================================================== */
 .contact-box-03 {
     margin-top: 29px;
-    text-align: right;
+    text-align: left;
+	position:relative;
 }
-
+.contact-box-03 a {
+ color:#000;
+  text-decoration: none;
+}
 .contact-box-03 .title {
     font-size: 17px;
     line-height: 24px;
     color: #454545;
     font-weight: bold;
 }
-
-.contact-box-03 a {
-    text-decoration: underline;
+.contact-box-03 p {
+    margin-left: 25px;
+    margin-top: 8px;
 }
 
-.contact-box-03 a:hover {
-    text-decoration: none;
+.contact-box-03 .title:before {
+    content: "\e935";
+    font-family: 'laundry';
+    position: absolute;
+    display: inline-block;
+    top:30px;
+    font-size: 18px;
+    line-height: 27px;
+    color: #B52421;
 }
-
 @media (max-width: 767px) {
     .contact-box-03 {
         text-align: center;
@@ -2634,7 +2660,7 @@ font-family: 'Roboto', sans-serif;
     -webkit-transition: all 0.3s linear;
     -o-transition: all 0.3s linear;
     color: #959595;
-    font-family: "Roboto", sans-serif;
+    font-family: "Lato", sans-serif;
     font-size: 16px;
     line-height: 20px;
     padding: 15px;
@@ -2693,9 +2719,9 @@ textarea.form-control {
 }
 
 .social-icon-content {
-    text-align: right;
-    float: right;
-    margin-top: 75px;
+    text-align: left;
+    float: left;
+    margin-top: 25px;
     overflow: hidden;
 }
 
@@ -2805,7 +2831,7 @@ form label.error {
 }
 
 .promo-footer {
-    font-family: "Roboto", sans-serif;
+    font-family: "Rubik", sans-serif;
     font-size: 32px;
     line-height: 40px;
     padding-bottom: 25px;
@@ -2850,7 +2876,7 @@ footer .box-location {
 
 footer .box-location:before {
     content: "\e908";
-    font-family: 'Montserrat';
+    font-family: 'laundry';
     position: absolute;
     display: inline-block;
     top: 7px;
@@ -2871,7 +2897,7 @@ footer .box-location:before {
 
 .time-table:before {
     content: "\e907";
-    font-family: 'Montserrat';
+    font-family: 'laundry';
     position: absolute;
     display: inline-block;
     top: 7px;
@@ -3064,7 +3090,7 @@ footer .copyright-box {
     font-weight: 300;
     line-height: 1em;
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "Lato", sans-serif;
     -moz-transition: all 200ms ease;
     -o-transition: all 200ms ease;
     -webkit-transition: all 200ms ease;
@@ -3085,7 +3111,7 @@ footer .copyright-box {
 .blog-post .post-title {
     font-size: 44px;
     line-height: 1.1em;
-    font-family: "Roboto", sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: 300;
     margin-bottom: 20px;
 }
@@ -3196,7 +3222,7 @@ footer .copyright-box {
 }
 
 .blog-post .post-quote p:after {
-    font-family: "Roboto", sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: bold;
     content: '“';
     display: block;
@@ -3284,7 +3310,7 @@ footer .copyright-box {
 .post-carousel .slick-next:before {
     color: #454545;
     font-size: 30px;
-    font-family: 'Montserrat';
+    font-family: 'laundry';
 }
 
 .post-carousel .slick-next:before {
@@ -3468,7 +3494,7 @@ footer .copyright-box {
     top: 10px;
     left: 0;
     display: block;
-    font-family: 'Montserrat';
+    font-family: 'laundry';
     content: "\e928";
     font-size: 12px;
     color: #B52421;
@@ -4618,4 +4644,24 @@ footer p {
 .app_icon_sec { color:#f8f9fa;
 text-transform:capitalize; font-size:33px; padding: 0px 0px 15px 0px;}
 
-
+.header1 {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+	border-bottom:1px solid #f2f2f2;
+}
+.page_title { background:#000;}
+.pgtitle h1 { text-align:center; padding:0; color:#fff; }
+.span12.pgtitle {
+    padding: 25px;
+}
+.page-content { margin-bottom:40px;}
+.contact_content { padding:0px; }
+.services_boxs .description { color:#000;}
+.howitcont p {
+    color: #000;
+    padding-top: 14px;
+	text-align:left;
+}
